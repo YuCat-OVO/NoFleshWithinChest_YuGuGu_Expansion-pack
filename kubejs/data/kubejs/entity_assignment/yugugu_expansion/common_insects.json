@@ -1,0 +1,6 @@
+{
+  "chestcavity": "kubejs:types/insects/common_insects.json",
+  "entities": [
+    "crabbersdelight:crab"
+  ]
+}
